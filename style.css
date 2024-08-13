@@ -152,9 +152,9 @@ body{
     background-color: red;
 }
 div .circ--1,.circ--2,.circ--3{
-    margin-top: 789px;
+    margin-top: 0px;
     mix-blend-mode: difference;
-    position:fixed;
+    position:absolute;
 }
 .circ--1 {
     border-radius:50%;
